@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- # 💫 About Me: -->
-My name is Rutvi and I am currently pursuing MS in Computer Science at Rochester Institute of Technology with a minor in Big Data Analytics<br><br>I am actively seeking internship opoortunities in the field of Data Enginnering and Data Science<br>
+My name is Rutvi and I am currently pursuing MS in Computer Science at Rochester Institute of Technology with a minor in Big Data Analytics<br><br>I am actively seeking internship opoortunities in the field of Data Engineering and Data Science<br>
 
 <!-- ## 🌐 Socials: -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvi-bheda) -->
