@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+--># 💫 About Me:
 Currently pursuing MS in Computer Science at Rochester Institute of Technology with a minor in Big Data Analytics<br><br>Actively seeking internship and full time opoortunities
 
 
-## 🌐 Socials:
+--> ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvi-bheda) 
 
 # 💻 Tech Stack:
