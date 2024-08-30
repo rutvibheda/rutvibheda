@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- # 💫 About Me: -->
 My name is Rutvi and I am a graduate student pursuing MS in Computer Science at Rochester Institute of Technology with a minor in Big Data Analytics<br>
-<br> Actively seeking internship or co-op opportunities in Data Engineering, Machine Learning and Data Science<br>
+<br> I am actively seeking internship or co-op opportunities in Data Engineering, Machine Learning and Data Science<br>
 
 
 <!-- ## 🌐 Socials: -->
