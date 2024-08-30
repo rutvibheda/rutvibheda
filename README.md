@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- # 💫 About Me: -->
-My name is Rutvi and I am currently pursuing MS in Computer Science at Rochester Institute of Technology with a minor in Big Data Analytics<br><br>I am actively seeking internship opoortunities in the field of Data Engineering and Data Science<br>
+My name is Rutvi and I am a graduate student pursuing MS in Computer Science at Rochester Institute of Technology with a minor in Big Data Analytics<br>
+<br>I am actively seeking internship opoortunities in the field of Data Engineering and Data Science<br>
+<br> Currently, I am actively seeking internship or co-op opportunities in Data Engineering, Machine Learning and Data Science. I am eager to apply my skills in a dynamic environment and contribute to impactful projects that utilize data to drive decisions and innovations<br>
+
 
 <!-- ## 🌐 Socials: -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvi-bheda) -->
